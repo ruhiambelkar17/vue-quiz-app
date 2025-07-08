@@ -1,9 +1,12 @@
 <script setup>
-import HomeComp from './components/HomeComp.vue'
+
+
+
 </script>
 
 <template>
-    <HomeComp />
+    <h1>HOME</h1>
+  
 </template>
 
 <style scoped>
